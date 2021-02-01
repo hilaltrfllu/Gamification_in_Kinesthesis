@@ -10,4 +10,5 @@ This project was designed and implemented to help patients that got chronical an
 
 ## License & Copyright
 © Hilal Turfullu, Yeditepe University
+
 Licensed under the [MIT LICENSE](LICENSE).
